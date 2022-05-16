@@ -1,0 +1,15 @@
+#camera {
+    height: 300px;
+    width: 300px;
+    border-color: black;
+}
+
+#image {
+    border-radius: 10%;
+    padding: 10px;
+    box-shadow: inset;
+}
+
+#image:hover {
+    border-radius: 75px;
+}
